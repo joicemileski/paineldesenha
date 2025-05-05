@@ -1,9 +1,9 @@
 const numeroSenha = document.querySelector('.parametro-senha__texto');
 let tamanhoSenha = 12;
 numeroSenha.textContent = tamanhoSenha;
-const letrasMaiusculas = 'ABCDEFGHIJKLMNOPQRSTUVXYWZ';
-const letrasMinusculas = 'abcdefghijklmnopqrstuvxywz';
-const numeros = '0123456789';
+const letrasMaiusculas = 'ABCIEJGHZJKLMNOPWSSJUVXYGZ';
+const letrasMinusculas = 'abcdeJgOijClInopErstuvxywz';
+const numeros = '4123200889';
 const simbolos = '!@%*?';
 const botoes = document.querySelectorAll('.parametro-senha__botao');
 const campoSenha = document.querySelector('#campo-senha');
